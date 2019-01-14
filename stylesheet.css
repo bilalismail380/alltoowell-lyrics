@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Chivo|EB+Garamond:700');
+
+html {
+  background-image: linear-gradient(white,red);
+}
+
+p {
+     margin-bottom:-10px;
+     margin-top:-10px;
+}
+
+.garamondblack {
+     font-family:"EB Garamond",serif;
+     font-weight:bold;
+     color:black;
+     text-align:center;
+     font-size:4.5em;
+     letter-spacing:-3px;
+}
+
+.garamondblue {
+     font-family:"EB Garamond",serif;
+     font-weight:bold;
+     color:#88b5cb;
+     text-align:center;
+     font-size:4.5em;
+     letter-spacing:-3px;
+}
+
+.ts {
+     border-style:dotted;
+     border-color:#d2232a;
+}
+
+.karlablack {
+     font-family:"Chivo",sans-serif;
+     font-weight:bold;
+     text-align:center;
+     font-size:7em;
+     letter-spacing:-3px;
+}
+
+.karlared {
+     font-family:"Chivo",sans-serif;
+     font-weight:bold;
+     color:#d2232a;
+     text-align:center;
+     font-size:7em;
+     letter-spacing:-3px;
+}
+
+.scarf {
+     display:inline-flex;
+     align-items:center;
+     font-family:"EB Garamond",serif;
+     font-weight:bold;
+     color:black;
+     text-align:left;
+     font-size:4.5em;
+     letter-spacing:-3px;
+}
+
+.scarf img {
+     max-width:35%;
+     height:70%;
+     opacity:0.8;
+     display: block;
+     padding-left:100px;
+     margin-right:20px;
+}
+
+.autumnimg {
+     max-width:100%;
+     height:auto;
+     opacity:0.9;
+     display: block;
+}
+
+.autumnleavesblack {
+     font-family:"EB Garamond",serif;
+     font-weight:bold;
+     color:black;
+     text-align:center;
+     font-size:4.5em;
+     letter-spacing:-3px;
+}
+
+.autumnleavesorange {
+     font-family:"EB Garamond",serif;
+     font-weight:bold;
+     color:red;
+     text-align:center;
+     font-size:4.5em;
+     letter-spacing:-3px;
+}
+
+.streetimg {
+     max-width:35%;
+     height:70%;
+     opacity:0.8;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+
+.paperimg {
+     max-width:35%;
+     height:70%;
+     opacity:0.8;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
